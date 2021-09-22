@@ -1,0 +1,4 @@
+venv
+/statics/
+vision.py
+/.idea/
